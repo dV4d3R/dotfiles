@@ -1,0 +1,6 @@
+[user]
+  name = <reducted>
+  email = <reducted>
+[core]
+  excludefile = ~/.gitignore_global
+  editor = lvim
