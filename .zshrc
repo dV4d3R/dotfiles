@@ -113,3 +113,15 @@ source $ZSH/oh-my-zsh.sh
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 alias vim="lvim"
+
+export PATH="/home/dvad3r/.local/bin:$PATH"
+
+export PYENV_ROOT="$HOME/.pyenv"
+export PYENV_VIRTUALENV_DISABLE_PROMPT=1
+
+if [[ -z $TMUX ]]; then
+  command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
+fi
+
+eval "$(pyenv init -)"
+eval "$(pyenv virtualenv-init -)"
