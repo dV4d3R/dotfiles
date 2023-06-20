@@ -114,7 +114,7 @@ source $ZSH/oh-my-zsh.sh
 
 alias vim="lvim"
 
-export PATH="/home/dvad3r/.local/bin:$PATH"
+export PATH="/home/dv4d3r/.local/bin:$PATH"
 
 export PYENV_ROOT="$HOME/.pyenv"
 export PYENV_VIRTUALENV_DISABLE_PROMPT=1
