@@ -285,7 +285,7 @@ alias ls="lsd"
 alias lst="lsd --tree"
 alias vim="nvim"
 
-export PATH="/home/dv4d3r/.local/bin:$PATH"
+export PATH="$HOME/.local/bin:$PATH"
 
 export PYENV_ROOT="$HOME/.pyenv"
 export PYENV_VIRTUALENV_DISABLE_PROMPT=1
