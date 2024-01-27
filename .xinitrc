@@ -1,5 +1,4 @@
-prlcc &
-prlcp &
+vmware-user &
 ~/.fehbg &
 flameshot &
 exec dwm
