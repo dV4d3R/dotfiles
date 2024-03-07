@@ -9,7 +9,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 
-plugins=(autojump fzf zsh-syntax-highlighting zsh-autosuggestions history history-substring-search)
+plugins=(sh-syntax-highlighting zsh-autosuggestions history-substring-search)
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
