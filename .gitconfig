@@ -3,4 +3,4 @@
   email = <reducted>
 [core]
   excludefile = ~/.gitignore_global
-  editor = lvim
+  editor = code
