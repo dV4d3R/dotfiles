@@ -9,7 +9,7 @@ if [[ -r "${XDG_CACHE_HOME:-$HOME/.cache}/p10k-instant-prompt-${(%):-%n}.zsh" ]]
 fi
 
 
-plugins=(zsh-syntax-highlighting zsh-autosuggestions history-substring-search fzf-tab)
+plugins=(zsh-syntax-highlighting zsh-autosuggestions fzf-tab)
 
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
@@ -29,7 +29,6 @@ source $ZSH/custom/themes/powerlevel10k/powerlevel10k.zsh-theme
 
 # some more ls aliases
 alias ll='ls -l'
-alias r="ranger"
 alias la='ls -A'
 alias l='ls -CF'
 alias ls="lsd"
@@ -50,6 +49,10 @@ export PATH="$PYENV_ROOT/bin:$PATH"
 
 eval "$(pyenv init -)"
 eval "$(pyenv virtualenv-init -)"
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
 # Remove padding on the right prompt
 export ZLE_RPROMPT_INDENT=0
