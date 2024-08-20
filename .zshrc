@@ -37,7 +37,7 @@ alias ip="ip --color=auto"
 alias vim="nvim"
 alias find="fdfind"
 
-export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/.local/bin:$HOME/go/bin:$PATH"
 
 export PYENV_ROOT="$HOME/.pyenv"
 export PYENV_VIRTUALENV_DISABLE_PROMPT=1
