@@ -1,0 +1,1655 @@
+{
+    "user_options":{
+        "bchecks":{
+            "imported_scripts":[
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Robotstxt Check.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CSP - Unsafe Directive Used.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CSP - Missing Header.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Caching - Cache-control without no-store.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/HSTS - Missing includeSubDomains.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/HSTS - Missing preload.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/HSTS - Missing Header.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Cloud Storage Checks.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Sensitive Info - SSN.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Server - HTTP Server Header observed.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/XFO - Missing Header.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Path-bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/WAF-bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Backend-language.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/server-detect.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Template-injection.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Request-level collaborator based.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Path-level.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Host-level.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Response-level (passive).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Log4Shell (collaborator).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Server-side prototype pollution (status).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Insertion-point-level.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Use of Known API Variable.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Couchbase Buckets Unauthenticated REST API - Detect.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Apache Struts OGNL Console Publicly Accessible.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Apache Tomcat Manager Path Normalization Panel - Detect.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Blind SSRF By Collaborator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Cache Deception check (Path confusion).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Cloudflare External Image Resizing Misconfiguration.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/SameSite attribute was set to None.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Etcd Server - Unauthenticated Access.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Graphql Introspection Query Enabled.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/GraphQL CSRF GET  Method Enabled.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/IBM Friendly Path Publicly Accessible.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/IBM Websphere Portal Information Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Javascript Source map detected.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Malicious JavaScript import in use.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Malicious Polyfill CDN In Use.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Kubernetes Pods - API Discovery  Remote Code Execution.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Microsoft Exchange Admin Center Exposure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/NetscalerCitrixADC Icon Hash.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Mass 48 Param For Open Redirect.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/PHP Laravel Debug Mode enabled.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Perl JAM 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Ruby on Rails - CRLF Injection and Cross-Site Scripting.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/SAP authentication bypass check.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/SAP Directory Listing.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Use of Unencrypted URI Schemes.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/WebBackup Exposed.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Xdebug remote code execution via xdebugremote_connect_back.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Apache mod_info.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/PathSuffix-Bypass-4ProxyOrWAF.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Path-bypass 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/WAF-bypass 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Apache Airflow Configuration Page.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Dockerrun AWS Configuration Page Exposed.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Invalid CORS configuration for credentialed requests detected.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CSRF-Magic backdoor detected.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Email splitting attack.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Exposed Laravel Clockwork Endpoint.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Exposed Laravel Telescope Endpoint.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Simple SAML php Admin Interface.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Swagger endpoint found.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Fastjson 1224 Deserialization RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Fastjson 1241 Deserialization RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Fastjson 1242 Deserialization RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Fastjson 1243 Deserialization RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Fastjson 1247 Deserialization RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Fastjson 1262 Deserialization RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Fastjson 1267 Deserialization RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Fastjson 1268 Deserialization RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Fastjson 1280 Deserialization RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Interesting file error in the response.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/DS_Store Configuration Check.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/NPM Debug Log Files.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Common Python file exposures.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Ruby on Rails storageyml File Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/SVN Configuration File Exposed.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Forwarded requests collaborator interaction detected.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Response-level.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/go debug pprof exposed.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/HTTP method override capability detected.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Missing securitytxt.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Nacos Unauthorized Create User.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Nacos default password.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Nacos ServerIdentity Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Nacos User List Unauthorized Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Nacos User List Unauthorized.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/NTLM Authentication Detection.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Exposed Generic Prometheus Metrics.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Exposed Prometheus API Endpoints.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Prometheus Metrics Publicly Available.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Unauthenticated Access to Prometheus (passive).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/HTTP Methods Available (passive).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Backend-language 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/server-detect 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Alibaba Sentinel SSRF .bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Shiro Cookie Check Active.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Shiro Cookie Check Passive.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot autoconfig actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot beans actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot caches actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot conditions actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot configprops actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot env actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot health actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot info actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot logfile actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot loggers actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot metrics actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot scheduledtasks actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot threaddump actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Springboot trace actuator.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Stack trace was detected.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Symfony Profiler Mode Enabled.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Misconfigured Symfony Verbose Plugin.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/AWS S3 Bucket takeover.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Shopify subdomain takeover.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Detect WoodWing Studio Server Panel.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Information Disclosure Secret Finder - certain.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Information Disclosure Secret Finder - tentative.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Adobe OAuth Client Secret.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Age Recipient (X25519 public key).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Age Identity Key in Source Code.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Amazon SNS Topic Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/AWS Access Key ID Value.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/AWS AccessSecret Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/AWS API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/AWS Session Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/DigitalOcean Key Exposure via Axiom.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Azure APIM Secret Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Bitly Secret Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/PayPal Braintree Access Token Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Cloudinary Credentials Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CodeClimate Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Cookie cached on disk.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Cratesio API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Discord Webhook Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Dynatrace API Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Facebook Access Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/FCM Server Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Github App Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/GitHub OAuth Access Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/GitHub Personal Access Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/GitHub Refresh Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/GitLab Personal Access Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/GitLab Pipeline Trigger Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/GitLab Runner Registration Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Google API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Google Calendar URI Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Google Client ID.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Google OAuth Client Secret (prefixed).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Heroku API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/JDBC Connection String Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Jenkins Token or Crumb in Source Code.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/None algorithm attack on JWS.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/JWT Token Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Loqate API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Mailchimp API Value.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Mailgun API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Mapbox Token Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Microsoft Teams Webhook Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/NewRelic Admin API Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/New Relic Insights Keys Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/New Relic Pixie API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/New Relic Pixie Deploy Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/NewRelic REST API Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Synthetics Location Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/NPM Access Token (fine-grained).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/NuGet API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Google OAuth Access Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/OpenAI API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Picatic API Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/PyPI Upload Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Razorpay Client ID Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/RubyGems API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Sauce Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Segment Public API Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Sendgrid API Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Shopify App Secret.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Shopify Access Token (Custom App).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Shopify Access Token (Legacy Private App).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Shopify Access Token (Public App).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Shoppable Service Auth Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Slack Access Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Slack User token disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Slack Webhook Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Square Access Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Square OAuth Secret Token Exposure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/StackHawk API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Stripe Restricted Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Stripe Secret Key Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Telegram Bot Token.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Tugboat Configuration File Exposure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Twilio API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Zapier Webhook Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Zenserp API Key.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Zoho Webhook Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/UUID detected.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/xxl job rce.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2001-0537 CISCO Authentication Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/[CVE-2011-3192] Apache Range Header DoS (Apache Killer).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2016-4437 Shiro Key Crack.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2017-4971 Spring WebFlow RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2017-8046 Spring Data Rest RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2017-9248 - Telerik UI Encryption Keys Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2018-1000129 - Jolokia 137 - Cross-Site Scripting.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2018-11759 - Apache mod_jk access control bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2018-1273 Spring Data Commons RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/[CVE-2018-15133] PHP Laravel Framework token Unserialize Remote Command Execution.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Atlassian Jira WallboardServlet 7131 - Cross-Site Scripting.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2019-17662 - ThinVNC 10b1 - Auth Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Keycloak before 1201 version - request_uri Blind Server-Side Request Forgery (Unauthenticated).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2020-1957 Shiro AuthBypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2020-35713 - Belkin Linksys RE6500 10012001 - RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2020-5902 F5 Networks Authentication Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2021-20323.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2021-27748 SSRF Websphere Portal.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2021-38647 - Microsoft Open Management Infrastructure - RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2022-0140.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2022-22947 Spring Cloud Gateway Actuator API RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2022-22963 Spring Cloud Function RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2022-22965 Spring Data Binding RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2022-22978 Spring Security Authorization Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2022-24260 VoipMonitor - Pre-Auth SQL Injection.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-23752 Unauthenticated information disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/[CVE-2023-24488] Vulnerable Citrix Gateway Detected.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-25690.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-26360 Adobe ColdFusion Arbitrary File Read and Code Execution.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-29298 Adobe ColdFusion Access Control Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-32563 - Ivanti Avalanche - RCE.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Ivanti API Unauthenticated Access.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-36346 POS Codekop v20 - Cross-site Scripting.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-36845 Juniper Networks - PHP External Variable Modification.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-37265 - CasaOS - Auth Bypass due to a lack of IP address verification.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-38035 - Ivanti Sentry - Auth Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-39141 Aria2 WebUI - Path Traversal.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-46805 - Ivanti Connect Secure and Ivanti Policy Secure Authentication Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-5074 D-Link D-View 8 v20128 - Authentication Bypass.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2023-5244 - Microweber  V20 - Cross-Site Scripting.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2021-20114 TCExam  1481 - Sensitive Information Exposure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2021-20158 Trendnet AC2600 TEW-827DRU 208B01 - Admin Password Change.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2021-21816 D-Link DIR-3040 113B03 - Information Disclosure.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CVE-2022-0150 WordPress Accessibility Helper 0607 - Cross-Site Scripting.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CRLF Injection.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CSV Injection with delayed Collaborator pingback.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Hidden Input Field Detection at Response Level (Passive).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/SSRF in each insetpoint.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Spring4Shell (Response).bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Template-injection 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Apache Struts OGNL Console Publicly Accessible 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Apache Tomcat Manager Path Normalization Panel - Detect 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Blind SSRF By Collaborator 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Cache Deception check (Path confusion) 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Cloudflare External Image Resizing Misconfiguration 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/SameSite attribute was set to None 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Etcd Server - Unauthenticated Access 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/IBM Friendly Path Publicly Accessible 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/IBM Websphere Portal Information Disclosure 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Kubernetes Pods - API Discovery  Remote Code Execution 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Microsoft Exchange Admin Center Exposure 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/NetscalerCitrixADC Icon Hash 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/PHP Laravel Debug Mode enabled 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Perl JAM 2 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Ruby on Rails - CRLF Injection and Cross-Site Scripting 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/SAP Directory Listing 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Use of Unencrypted URI Schemes 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/WebBackup Exposed 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Xdebug remote code execution via xdebugremote_connect_back 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Apache mod_info 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Invalid CORS configuration for credentialed requests detected 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/CSRF-Magic backdoor detected 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Exposed Laravel Clockwork Endpoint 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Exposed Laravel Telescope Endpoint 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Simple SAML php Admin Interface 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Swagger endpoint found 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Forwarded requests collaborator interaction detected 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Response-level 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/go debug pprof exposed 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/HTTP method override capability detected 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Missing securitytxt 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/NTLM Authentication Detection 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Stack trace was detected 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Symfony Profiler Mode Enabled 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Misconfigured Symfony Verbose Plugin 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/AWS S3 Bucket takeover 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/Shopify subdomain takeover 2.bcheck"
+                },
+                {
+                    "enabled":true,
+                    "path":"/home/pentester/.BurpSuite/bchecks/UUID detected 2.bcheck"
+                }
+            ]
+        },
+        "connections":{
+            "platform_authentication":{
+                "credentials":[],
+                "do_platform_authentication":true,
+                "prompt_on_authentication_failure":false
+            },
+            "socks_proxy":{
+                "dns_over_socks":false,
+                "host":"",
+                "password":"",
+                "port":0,
+                "use_proxy":false,
+                "username":""
+            },
+            "upstream_proxy":{
+                "servers":[]
+            }
+        },
+        "display":{
+            "character_sets":{
+                "mode":"recognize_automatically"
+            },
+            "html_rendering":{
+                "allow_http_requests":true
+            },
+            "http_message_display":{
+                "font_name":"JetBrainsMono NF",
+                "font_size":12,
+                "font_smoothing":true,
+                "highlight_requests":true,
+                "highlight_responses":true,
+                "pretty_print_by_default":true
+            },
+            "table_appearance":{
+                "zebra_striping":true
+            },
+            "user_interface":{
+                "font_size":12,
+                "look_and_feel":"Dark"
+            }
+        },
+        "extender":{
+            "extensions":[
+                {
+                    "errors":"ui",
+                    "extension_file":"/opt/PwnFox.jar",
+                    "extension_type":"java",
+                    "loaded":true,
+                    "name":"PwnFox",
+                    "output":"ui"
+                },
+                {
+                    "bapp_serial_version":15,
+                    "bapp_uuid":"ae62baff8fa24150991bad5eaf6d4d38",
+                    "errors":"ui",
+                    "extension_file":"bapps/ae62baff8fa24150991bad5eaf6d4d38/target/burp-suite-software-version-checks-1.0.jar",
+                    "extension_type":"java",
+                    "loaded":true,
+                    "name":"Software Version Reporter",
+                    "output":"ui"
+                },
+                {
+                    "bapp_serial_version":3,
+                    "bapp_uuid":"523ae48da61745aaa520ef689e75033b",
+                    "errors":"ui",
+                    "extension_file":"bapps/523ae48da61745aaa520ef689e75033b/build/libs/Burp-IISTildeEnumerationScanner-all-2.0.jar",
+                    "extension_type":"java",
+                    "loaded":true,
+                    "name":"IIS Tilde Enumeration Scanner",
+                    "output":"ui"
+                },
+                {
+                    "bapp_serial_version":8,
+                    "bapp_uuid":"0ab7a94d8e11449daaf0fb387431225b",
+                    "errors":"ui",
+                    "extension_file":"bapps/0ab7a94d8e11449daaf0fb387431225b/build/libs/burp-JS-Miner-all.jar",
+                    "extension_type":"java",
+                    "loaded":true,
+                    "name":"JS Miner",
+                    "output":"ui"
+                },
+                {
+                    "bapp_serial_version":6,
+                    "bapp_uuid":"a158fd3fc9394253be3aa0bc4c181d1f",
+                    "errors":"ui",
+                    "extension_file":"bapps/a158fd3fc9394253be3aa0bc4c181d1f/Burp-MissingScannerChecks.py",
+                    "extension_type":"python",
+                    "loaded":true,
+                    "name":"Additional Scanner Checks",
+                    "output":"ui"
+                },
+                {
+                    "bapp_serial_version":31,
+                    "bapp_uuid":"3123d5b5f25c4128894d97ea1acc4976",
+                    "errors":"ui",
+                    "extension_file":"bapps/3123d5b5f25c4128894d97ea1acc4976/activeScan++.py",
+                    "extension_type":"python",
+                    "loaded":true,
+                    "name":"Active Scan++",
+                    "output":"ui"
+                },
+                {
+                    "errors":"ui",
+                    "extension_file":"/home/pentester/GAP.py",
+                    "extension_type":"python",
+                    "loaded":true,
+                    "name":"GAP",
+                    "output":"ui"
+                },
+                {
+                    "bapp_serial_version":13,
+                    "bapp_uuid":"36238b534a78494db9bf2d03f112265c",
+                    "errors":"ui",
+                    "extension_file":"bapps/36238b534a78494db9bf2d03f112265c/retirejs-burp-plugin/target/burp-retire-js-3.jar",
+                    "extension_type":"java",
+                    "loaded":true,
+                    "name":"Retire.js",
+                    "output":"ui"
+                },
+                {
+                    "bapp_serial_version":5,
+                    "bapp_uuid":"444407b96d9c4de0adb7aed89e826122",
+                    "errors":"ui",
+                    "extension_file":"bapps/444407b96d9c4de0adb7aed89e826122/403Bypasser.py",
+                    "extension_type":"python",
+                    "loaded":true,
+                    "name":"403 Bypasser",
+                    "output":"ui"
+                }
+            ],
+            "java":{
+                "folder_for_loading_library_jar_files":""
+            },
+            "python":{
+                "folder_for_loading_modules":"",
+                "location_of_jython_standalone_jar_file":"/opt/jython-standalone-2.7.3.jar"
+            },
+            "ruby":{
+                "location_of_jruby_jar_file":""
+            },
+            "settings":{
+                "automatically_reload_extensions_on_startup":true,
+                "automatically_update_bapps_on_startup":true
+            }
+        },
+        "intruder":{
+            "tab_bar_layout":"wrapped"
+        },
+        "misc":{
+            "api":{
+                "address":"",
+                "enabled":false,
+                "insecure_mode":false,
+                "keys":[],
+                "listen_mode":"loopback_only",
+                "port":1337
+            },
+            "automatic_project_backup":{
+                "delete_on_shutdown":true,
+                "enabled":true,
+                "in_scope_only":false,
+                "interval":30,
+                "show_progress":true
+            },
+            "collaborator_server":{
+                "location":"",
+                "poll_over_unencrypted_http":false,
+                "polling_location":"",
+                "type":"default"
+            },
+            "embedded_browser":{
+                "allow_saving_browser_settings":true,
+                "browser_data_directory":""
+            },
+            "enable_proxy_interception_at_startup":"never",
+            "exceptions_log_directory":"",
+            "hotkeys":[
+                {
+                    "action":"send_to_repeater",
+                    "hotkey":"Ctrl+R"
+                },
+                {
+                    "action":"send_to_intruder",
+                    "hotkey":"Ctrl+I"
+                },
+                {
+                    "action":"send_to_organizer",
+                    "hotkey":"Ctrl+O"
+                },
+                {
+                    "action":"forward_intercepted_proxy_message",
+                    "hotkey":"Ctrl+F"
+                },
+                {
+                    "action":"toggle_proxy_interception",
+                    "hotkey":"Ctrl+T"
+                },
+                {
+                    "action":"issue_repeater_request",
+                    "hotkey":"Ctrl+Space"
+                },
+                {
+                    "action":"switch_to_dashboard",
+                    "hotkey":"Ctrl+Shift+D"
+                },
+                {
+                    "action":"switch_to_target",
+                    "hotkey":"Ctrl+Shift+T"
+                },
+                {
+                    "action":"switch_to_proxy",
+                    "hotkey":"Ctrl+Shift+P"
+                },
+                {
+                    "action":"switch_to_intruder",
+                    "hotkey":"Ctrl+Shift+I"
+                },
+                {
+                    "action":"switch_to_repeater",
+                    "hotkey":"Ctrl+Shift+R"
+                },
+                {
+                    "action":"switch_to_logger",
+                    "hotkey":"Ctrl+Shift+L"
+                },
+                {
+                    "action":"switch_to_organizer",
+                    "hotkey":"Ctrl+Shift+O"
+                },
+                {
+                    "action":"go_to_previous_tab",
+                    "hotkey":"Ctrl+Minus"
+                },
+                {
+                    "action":"go_to_next_tab",
+                    "hotkey":"Ctrl+Equals"
+                },
+                {
+                    "action":"editor_cut",
+                    "hotkey":"Ctrl+X"
+                },
+                {
+                    "action":"editor_copy",
+                    "hotkey":"Ctrl+C"
+                },
+                {
+                    "action":"editor_paste",
+                    "hotkey":"Ctrl+V"
+                },
+                {
+                    "action":"editor_undo",
+                    "hotkey":"Ctrl+Z"
+                },
+                {
+                    "action":"editor_redo",
+                    "hotkey":"Ctrl+Y"
+                },
+                {
+                    "action":"editor_select_all",
+                    "hotkey":"Ctrl+A"
+                },
+                {
+                    "action":"editor_search",
+                    "hotkey":"Ctrl+S"
+                },
+                {
+                    "action":"editor_go_to_previous_search_match",
+                    "hotkey":"Ctrl+Comma"
+                },
+                {
+                    "action":"editor_go_to_next_search_match",
+                    "hotkey":"Ctrl+Period"
+                },
+                {
+                    "action":"editor_url_decode",
+                    "hotkey":"Ctrl+Shift+U"
+                },
+                {
+                    "action":"editor_url_encode_key_characters",
+                    "hotkey":"Ctrl+U"
+                },
+                {
+                    "action":"editor_html_decode",
+                    "hotkey":"Ctrl+Shift+H"
+                },
+                {
+                    "action":"editor_html_encode_key_characters",
+                    "hotkey":"Ctrl+H"
+                },
+                {
+                    "action":"editor_base64_decode",
+                    "hotkey":"Ctrl+Shift+B"
+                },
+                {
+                    "action":"editor_base64_encode",
+                    "hotkey":"Ctrl+B"
+                },
+                {
+                    "action":"editor_backspace_word",
+                    "hotkey":"Ctrl+Backspace"
+                },
+                {
+                    "action":"editor_delete_word",
+                    "hotkey":"Ctrl+Delete"
+                },
+                {
+                    "action":"editor_delete_line",
+                    "hotkey":"Ctrl+D"
+                },
+                {
+                    "action":"editor_go_to_previous_word",
+                    "hotkey":"Ctrl+Left"
+                },
+                {
+                    "action":"editor_go_to_previous_word_extend_selection",
+                    "hotkey":"Ctrl+Shift+Left"
+                },
+                {
+                    "action":"editor_go_to_next_word",
+                    "hotkey":"Ctrl+Right"
+                },
+                {
+                    "action":"editor_go_to_next_word_extend_selection",
+                    "hotkey":"Ctrl+Shift+Right"
+                },
+                {
+                    "action":"editor_go_to_previous_paragraph",
+                    "hotkey":"Ctrl+Up"
+                },
+                {
+                    "action":"editor_go_to_previous_paragraph_extend_selection",
+                    "hotkey":"Ctrl+Shift+Up"
+                },
+                {
+                    "action":"editor_go_to_next_paragraph",
+                    "hotkey":"Ctrl+Down"
+                },
+                {
+                    "action":"editor_go_to_next_paragraph_extend_selection",
+                    "hotkey":"Ctrl+Shift+Down"
+                },
+                {
+                    "action":"editor_go_to_start_of_document",
+                    "hotkey":"Ctrl+Home"
+                },
+                {
+                    "action":"editor_go_to_start_of_document_extend_selection",
+                    "hotkey":"Ctrl+Shift+Home"
+                },
+                {
+                    "action":"editor_go_to_end_of_document",
+                    "hotkey":"Ctrl+End"
+                },
+                {
+                    "action":"editor_go_to_end_of_document_extend_selection",
+                    "hotkey":"Ctrl+Shift+End"
+                }
+            ],
+            "http_message_search":{
+                "autoscroll_to_match_by_default":false,
+                "case_sensitive_by_default":false,
+                "regex_by_default":false
+            },
+            "inspector_display_mode":"auto-expand",
+            "inspector_position":"right",
+            "inspector_widget_configurations":[
+                {
+                    "open_by_default":false,
+                    "show":true,
+                    "type":"request_attributes",
+                    "wrap_text":false
+                },
+                {
+                    "open_by_default":false,
+                    "show":true,
+                    "type":"request_query_parameters",
+                    "wrap_text":false
+                },
+                {
+                    "open_by_default":false,
+                    "show":true,
+                    "type":"request_body_parameters",
+                    "wrap_text":false
+                },
+                {
+                    "open_by_default":false,
+                    "show":true,
+                    "type":"request_cookies",
+                    "wrap_text":false
+                },
+                {
+                    "open_by_default":false,
+                    "show":true,
+                    "type":"request_headers",
+                    "wrap_text":false
+                },
+                {
+                    "open_by_default":false,
+                    "show":true,
+                    "type":"response_headers",
+                    "wrap_text":false
+                }
+            ],
+            "log_exceptions_to_local_directory":false,
+            "message_editor_request_configurations":[
+                {
+                    "show":true,
+                    "type":"pretty"
+                },
+                {
+                    "show":true,
+                    "type":"raw"
+                },
+                {
+                    "show":true,
+                    "type":"hex"
+                },
+                {
+                    "show":false,
+                    "type":"headers",
+                    "wrap_text":false
+                },
+                {
+                    "show":false,
+                    "type":"query_parameters",
+                    "wrap_text":false
+                },
+                {
+                    "show":false,
+                    "type":"body_parameters",
+                    "wrap_text":false
+                },
+                {
+                    "show":false,
+                    "type":"cookies",
+                    "wrap_text":false
+                },
+                {
+                    "show":false,
+                    "type":"attributes",
+                    "wrap_text":false
+                }
+            ],
+            "message_editor_response_configurations":[
+                {
+                    "show":true,
+                    "type":"pretty"
+                },
+                {
+                    "show":true,
+                    "type":"raw"
+                },
+                {
+                    "show":true,
+                    "type":"hex"
+                },
+                {
+                    "show":true,
+                    "type":"render"
+                },
+                {
+                    "show":false,
+                    "type":"headers",
+                    "wrap_text":false
+                }
+            ],
+            "out_of_scope_history_logging_action":"prompt",
+            "pause_tasks_at_startup_default":true,
+            "show_learn_tab":true,
+            "submit_feedback":true,
+            "suppress_confirm_on_close":false,
+            "temporary_files_location":"",
+            "uninteresting_headers":{
+                "hide_uninteresting_headers_by_default":false
+            }
+        },
+        "repeater":{
+            "tab_bar_layout":"wrapped"
+        },
+        "ssl":{
+            "client_certificates":{
+                "certificates":[]
+            },
+            "negotiation":{
+                "disable_sni_extension":false,
+                "enable_blocked_algorithms":true
+            }
+        },
+        "target":{
+            "view":"left_right_split"
+        }
+    }
+}
