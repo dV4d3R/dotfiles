@@ -35,6 +35,7 @@ alias ls="lsd"
 alias lst="lsd --tree"
 alias ip="ip --color=auto"
 alias vim="nvim"
+alias find="fdfind"
 
 export PATH="$HOME/.local/bin:$PATH"
 
