@@ -18,7 +18,8 @@
 
 ### Obsidian ###
 # config dir
-.obsidian/
+.obsidian
+.obsidian/*
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
