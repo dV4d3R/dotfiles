@@ -2,5 +2,5 @@
   name = <reducted>
   email = <reducted>
 [core]
-  excludefile = ~/.gitignore_global
-  editor = code
+  excludesfile = ~/.gitignore_global
+  editor = code --wait
