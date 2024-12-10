@@ -51,7 +51,7 @@ Temporary Items
 
 ### Obsidian ###
 # config dir
-.obsidian/
+.obsidian/workspace.json
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
