@@ -1,24 +1,43 @@
-# Created by https://www.toptal.com/developers/gitignore/api/python,obsidian,windows,linux
-# Edit at https://www.toptal.com/developers/gitignore?templates=python,obsidian,windows,linux
+# Created by https://www.toptal.com/developers/gitignore/api/python,obsidian,macos,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=python,obsidian,macos,visualstudiocode
 
-### Linux ###
-*~
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
 
-# temporary files which can be created if a process still has a handle open of a deleted file
-.fuse_hidden*
+# Icon must end with two \r
+Icon
 
-# KDE directory preferences
-.directory
 
-# Linux trash folder which might appear on any partition or disk
-.Trash-*
+# Thumbnails
+._*
 
-# .nfs files are created when an open file is removed but is still being accessed
-.nfs*
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+### macOS Patch ###
+# iCloud generated files
+*.icloud
 
 ### Obsidian ###
 # config dir
-.obsidian/
+.obsidian
+workspace.json
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
@@ -192,46 +211,23 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
-### Windows ###
-# Windows thumbnail cache files
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
 
-# Dump file
-*.stackdump
+# Local History for Visual Studio Code
+.history/
 
-# Folder config file
-[Dd]esktop.ini
+# Built Visual Studio Code Extensions
+*.vsix
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
 
-# Windows Installer files
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-
-### Git ###
-# Created by git for backups. To disable backups in Git:
-# $ git config --global mergetool.keepBackup false
-*.orig
-
-# Created by git when using merge tools for conflicts
-*.BACKUP.*
-*.BASE.*
-*.LOCAL.*
-*.REMOTE.*
-*_BACKUP_*.txt
-*_BASE_*.txt
-*_LOCAL_*.txt
-*_REMOTE_*.txt
-
-# End of https://www.toptal.com/developers/gitignore/api/python,obsidian,windows,linux
+# End of https://www.toptal.com/developers/gitignore/api/python,obsidian,macos,visualstudiocode

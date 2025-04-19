@@ -1,6 +1,6 @@
 [user]
-  name = <reducted>
-  email = <reducted>
+  name = dv4d3r
+  email = 46595719+dV4d3R@users.noreply.github.com
 [core]
-  excludefile = ~/.gitignore_global
-  editor = code
+  excludesfile = ~/.gitignore_global
+  editor=code --wait
